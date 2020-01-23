@@ -5,4 +5,4 @@ end
 
 get '/name' do "My name is Logan." end
 get '/hometown' do "My hometown is Reno, Nevada." end
-get '/favorite-song' do "My favorite song is Big Bad Wolf." end 
+get '/favorite-song' do "My favorite song is Big Bad Wolf." end
